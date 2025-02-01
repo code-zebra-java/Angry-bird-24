@@ -18,6 +18,7 @@ class Box {
     translate(pos.x, pos.y);
     rotate(angle);
     rectMode(CENTER);
+    //just teaching
     strokeWeight(4);
     stroke("red");
     fill(255);
